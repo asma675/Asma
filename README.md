@@ -1,4 +1,4 @@
-# Hi, I'm Asma 👩🏻‍💻
+# Hi, I'm Asma 👩🏻‍💻🐿️🌹🌻
 
 Software Engineer | Cloud Computing | Full-Stack Development
 
