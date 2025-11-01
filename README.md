@@ -41,12 +41,15 @@ I build scalable, user-centric web + mobile applications using modern frameworks
 
 
 # 🚀 Projects (Highlighted)
-Project	Tech	Summary
-ShareMeal App	.NET MAUI, Azure, REST	social impact app connecting food donors + food banks
-GDG Frontend UI	React, Tailwind, Vercel	component-driven UI built for Google Developer Group challenge
-PasswordStore	Java, Spring Boot	secure encrypted credential storage
-DriveWell App	.NET MAUI	automotive tracking with async sync logic
-Student Records Portal	SQL, HTML/CSS	secure academic records management portal
+## 🧩 Project Portfolio (Technical Summary)
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **ShareMeal App** | .NET MAUI • C# • Azure • REST APIs | Social impact application enabling donors to share surplus food with nearby food banks; supports real-time updates and listings hosted on Azure App Services. |
+| **GDG Frontend UI** | React • Tailwind CSS • Vercel | Responsive, component-driven UI designed for the Google Developer Group challenge, focused on reusability, performance and modern front-end patterns. |
+| **PasswordStore** | Java • Spring Boot • Thymeleaf • H2 | Secure password management system with encrypted storage and clean MVC architecture. |
+| **DriveWell App** | .NET MAUI • C# | Cross-platform automotive tracking tool with asynchronous sync flows to monitor and store mileage / driving data. |
+| **Student Records Portal** | SQL • HTML • CSS | Secure academic record management portal with role-based data validation and controlled access. |
 
 # 🏆 Achievements
 
